@@ -1,6 +1,7 @@
 # rzmqdb
 R ZeroMQ Database
 
+## Overview
 R ZeroMQ Database provides a quick, easy and flexible way to store data in-memory.
 
 Rzmqdb uses [fst](https://www.fstpackage.org/) to compress data. 
